@@ -1,11 +1,7 @@
 # Code-Bot
 Un code python 3.9.0 pour crée son propre bot.
-
 Bot Discord - Python 3.9 by Layox
-
-Réseaux 
 Discord → https://discord.gg/aJd9nxkdRS
-GitHub → https://github.com/Layox0
 
 ✅ FONCTIONNALITE :
 
