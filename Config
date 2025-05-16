@@ -1,0 +1,5 @@
+# Remplace par ton ID Discord
+OWNER_ID = ID DISCORD
+
+# Ton token de bot (à insérer manuellement plus tard)
+TOKEN = "TOKEN BOT"
