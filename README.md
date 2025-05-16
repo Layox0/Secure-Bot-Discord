@@ -3,27 +3,27 @@ Un code python 3.9.0 pour crée son propre bot.
 Bot Discord - Python 3.9 by Layox
 Discord → https://discord.gg/aJd9nxkdRS
 
-✅ FONCTIONNALITE :
+# **✅ FONCTIONNALITE :**
 
-Anti-spam automatique
+- Anti-spam automatique
 
-Action d'accès à l'écriture dans le salon
+- Action d'accès à l'écriture dans le salon
 +lock 
 +unlock
 
-Action d'accès au chanel
+- Action d'accès au chanel
 +fermer
 +ouvert
 
-Action de TimeOut
+- Action de TimeOut
 +mute
 +unmute
 
-Action de Mdération
+- Action de Mdération
 +bannir
 +kick
 
-🔧 CONFIGURATION                                                                                                      
+# **🔧 CONFIGURATION :**                                                                                                    
 
 1. Installe les dépendances :
    pip install discord.py==1.7.3
