@@ -37,9 +37,6 @@ Discord → https://discord.gg/aJd9nxkdRS
 
 5. toute les commandes sont accessibles uniquement au OWNER_ID
 
-# Quand vous serez dans le CMD, le bot ce connectera.
-![image](https://github.com/user-attachments/assets/da781901-13d3-434e-9345-d41bf4c90576)
-
 ![image](https://github.com/user-attachments/assets/661d3701-17c1-42b2-b4ad-3b22d4a01d45)
 
 # **Commande du bot**
